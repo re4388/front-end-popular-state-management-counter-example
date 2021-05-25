@@ -8,4 +8,4 @@
   - Go each folder to `npm install` and find the starter script in `package.json` to kick off.
 
 ps:
-I have not take the time to check how original written these counter example, but if anyone who know and want me to add the author for each sub-folder repo, I am welcome to do so.
+I have not take the time to check how original author who make these counter example, but if anyone who know and want me to add the author for each sub-folder repo, I am welcome to do so.
